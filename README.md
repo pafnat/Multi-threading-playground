@@ -3,9 +3,6 @@ A playground for me to learn basic concepts of Multi-Threading in Java (see [ude
 
 See the [Video Tutorials](https://www.udemy.com/java-multithreading) for more information.
 
-## Contributor
-Lepeev Pavel `ru.linkedin.com/pub/pavel-lepeev/18/305/b11/`
-
 Topics
 ====
 1. Java Multithreading: Starting Threads
